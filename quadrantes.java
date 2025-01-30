@@ -1,4 +1,3 @@
-package proGitHub;
 
 import java.util.Scanner;
 
